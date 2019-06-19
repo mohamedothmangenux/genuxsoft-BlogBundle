@@ -1,5 +1,5 @@
 {
-  "name": "genuxsoft-blog-bundle",
+  "name": "genuxsoft/blogbundle",
   "description": "very simple blog bundle",
   "type": "symfony-bundle",
   "license": "MIT",
