@@ -1,0 +1,12 @@
+{{ form_start(blogform) }}
+                {{ form_row(blogform.title, {
+                    'label': 'Post Title'
+                }) }}
+                {{ form_row(blogform.description) }}
+                {{ form_row(blogform.postedAt) }}
+                {{ form_row(blogform.status) }}
+                {{ form_row(blogform.category, {
+                    'placeholder': 'please select category'
+                }) }}
+                <button type="submit" class="btn btn-primary" formnovalidate>Save</button>
+{{ form_end(blogform) }}

@@ -1,0 +1,13 @@
+{
+  "name": "genuxsoft/BlogBundle",
+  "description": "very simple blog bundle",
+  "type": "symfony-bundle",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mohamed Othman",
+      "email": "mohamed_othman@genuxsoft.com"
+    }
+  ],
+  "require": {}
+}
